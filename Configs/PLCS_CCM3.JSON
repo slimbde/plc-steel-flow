@@ -1,0 +1,17 @@
+[
+    {
+        "plc_id": "1",
+        "plc_ip": "176.16.11.180",
+        "plc_rack": "0",
+        "plc_slot": "2",
+        "plc_type": "S7400",
+        "plc_vars": [
+            {
+                "address": "DB220.DBW02",
+                "data_type": "Int",
+                "dev_tag": "pmFlow",
+                "scale": 0.001
+            }
+        ]
+    }
+]
